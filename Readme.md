@@ -1,2 +1,2 @@
 ## Portfolio Website
-### https://vineelgundala.github.io/Portfolio/git
+### https://vineelgundala.github.io/Portfolio
